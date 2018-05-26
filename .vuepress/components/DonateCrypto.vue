@@ -9,9 +9,10 @@
 </template>
 
 <script>
-	export default {
-		props: ['currency', 'logo', 'wallet']
-	}
+export default {
+	name: 'donate-crypto',
+	props: ['currency', 'logo', 'wallet']
+}
 </script>
 
 <style scoped>
