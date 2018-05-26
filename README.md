@@ -1,9 +1,9 @@
 ---
 
-home:				true
+home:		true
 heroImage:	/assets/img/bannerjotaese.png
-prev: 			false
-next: 			false
+prev: 	false
+next: 	false
 
 ---
 
