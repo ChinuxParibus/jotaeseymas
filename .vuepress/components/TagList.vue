@@ -7,16 +7,19 @@
 
 <script>
 export default {
+	name: 'tag-list',
 	props: ['tagstring'],
 	methods: {
 		tags(tagstring) {
 			return tagstring
 				.split(',')
 				.map(tagname => {
-					return tagname
+					return tagname.indexOf('-') !== -1 ?
+					tagname
 						.split('-')
 						.map(word => word.toUpperCase())
 						.join(' ')
+					: tagname.toUpperCase()
 				})
 		}
 	}
@@ -25,10 +28,11 @@ export default {
 
 <style scoped>
 .tag {
-	background-color: #D25349;
-	border-radius: 50%;
+	background-color: #FFADA6;
+	border-radius: 20px;
 	color: white;
 	display: inline-block;
-	font-weight: bold;
+	margin: 0 5px;
+	padding: 0 6px;
 }
 </style>

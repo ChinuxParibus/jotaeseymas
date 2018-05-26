@@ -23,7 +23,7 @@ prev:			/posts/
 next:			false
 desc:			Sin descripción
 mediaimg:	/assets/img/avatar-white-red.gif
-taglist: no-tags
+taglist: no-tags,
 meta:
   - name: keywords
     content: list,vuepress,vue
@@ -38,6 +38,7 @@ meta:
 
 # $title
 
+
 **¡Nos vemos en el código!**
 
 <hr>
@@ -45,6 +46,7 @@ meta:
 Si te gustó el contenido de este post, entonces [¡échame una ayudaíta!][100]
 :wink:
 
+<tag-list :tagstring="$page.frontmatter.taglist"></tag-list>
 
 [100]: /ayuda/
 

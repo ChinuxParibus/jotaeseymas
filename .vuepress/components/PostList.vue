@@ -7,6 +7,7 @@
 						<h2 class="title">{{ post.title }}</h2>
 						<p class="description"> {{ post.frontmatter.desc }}</p>
 						<p class="date">Escrito el: {{ extractDate(post.path) }}</p>
+						<tag-list :tagstring="post.frontmatter.taglist"></tag-list>
 					</div>
 					<div class="media-image">
 						<img class="square" :src="post.frontmatter.mediaimg">
@@ -22,7 +23,11 @@
 </template>
 
 <script>
+import TagList from './TagList.vue'
+
 export default {
+	name: 'post-list',
+	components: { TagList },
 	data () {
 		return {
 			monthsTable: {
