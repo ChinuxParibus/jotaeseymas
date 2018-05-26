@@ -5,6 +5,7 @@ prev:			/posts/
 next:			false
 desc:			Es la historia de un amor como no hay otro igual...
 mediaimg:	/assets/img/icono-blog.png
+taglist: recordar-es-vivir,
 meta:
   - name: keywords
     content: parte,serie,amor,markdown,historia,history,music,indie,javascript,list,vuepress,vue
@@ -88,6 +89,8 @@ parte donde muestro las entrañas del blog :yum:
 
 Si te gustó el contenido de este post, entonces [¡échame una ayudaíta!][100]
 :wink:
+
+<tag-list :tagstring="$page.frontmatter.taglist"></tag-list>
 
 [1]: https://jotaeseymas.wordpress.com
 [2]: https://blog.crespo.org.ve/
