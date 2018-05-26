@@ -10,9 +10,9 @@ module.exports = {
 	evergreen: true,
 	themeConfig: {
 		nav: [
-		{ text: 'ACERCA DE MÍ', link: '/about/'  },
-		{ text: 'UNA AYUDAÍTA', link: '/ayuda/'  },
-		{ text: 'DECÁLOGO HACKER', link: '/decalogo/' },
+			{ text: 'ACERCA DE MÍ', link: '/about/'  },
+			{ text: 'UNA AYUDAÍTA', link: '/ayuda/'  },
+			{ text: 'DECÁLOGO HACKER', link: '/decalogo/' },
 			{ text: 'MANIFIESTO', link: '/manifiesto/' },
 			{ text: 'POSTS', link: '/posts/' }
 		],
