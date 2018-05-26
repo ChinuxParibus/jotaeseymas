@@ -1,0 +1,35 @@
+{
+	"blog_name": "JOTA ESE Y MAS",
+	"blog_desc": "Mi laboratorio de Javascript, sus herramientas derivadas y otras yerbas",
+	"blog_icon": ["This would be the main favicon", "*", "*"],
+	"blog_meta": {
+		"created_at": "2018-04-16",
+		"updated_at": "*",
+		"country": "Venezuela",
+		"page_count": 4,
+		"post_count": 0
+	},
+	"blog_me": {
+		"name": "Jhony Alberto Grillet Medina",
+		"email": "grilletjhony@gmail.com",
+		"social": [
+			{
+				"icon": "*",
+				"network_name": "LinkedIn",
+				"url": "*"
+			},
+			{
+				"icon": "*",
+				"network_name": "Twitter",
+				"url": "*"
+			},
+			{
+				"icon": "*",
+				"network_name": "Github",
+				"url": "*"
+			}
+		]
+	},
+	"blog_url": "https://jotaeseymas.surge.sh",
+	""
+}
