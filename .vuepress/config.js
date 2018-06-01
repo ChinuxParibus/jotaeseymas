@@ -2,9 +2,14 @@ module.exports = {
 	head: [
 		[ 'link', { rel: 'icon', href: `/assets/img/faviconjotaese.png` } ]
 	],
+	locales: {
+		'/': {
+			lang: 'es-VE',
+			title: 'JOTA ESE Y MÁS',
+			description: 'Mi laboratorio de Javascript, sus herramientas derivadas y otras yerbas...'
+		}
+	},
 	ga: 'UA-90456269-1',
-	title: 'JOTA ESE Y MÁS',
-	description: 'Mi laboratorio de Javascript, sus herramientas derivadas y otras yerbas...',
 	serviceWorker: true,
 	editLinks: false,
 	evergreen: true,

@@ -21,9 +21,7 @@ meta:
 # EL ALFABETO DE JAVASCRIPT
 
 
-<iframe src="https://www.youtube.com/embed/NH-5aUFoF9g"
-frameborder="0" allow="autoplay; encrypted-media"
-allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/NH-5aUFoF9g" allowfullscreen></iframe>
 
 Este es un post que quería hacer desde hace tiempo...
 

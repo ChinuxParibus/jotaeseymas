@@ -21,7 +21,7 @@ meta:
 # JASMINE, TDD Y FREECODECAMP
 
 <iframe src="https://www.youtube.com/embed/cW5ueE2vUm0?start=7"
-frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+allowfullscreen></iframe>
 
 Cuando una rola es buena, es buena, y la repites una y otra vez... :yum:
 

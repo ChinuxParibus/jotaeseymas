@@ -22,8 +22,7 @@ meta:
 
 ## Parte 1. El romance.
 
-<iframe src="https://www.youtube.com/embed/shYVwUFPZy0?start=21" frameborder="0"
-allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/shYVwUFPZy0?start=21" allowfullscreen></iframe>
 
 :musical_note: Es la historia de un amor, como no hay otro igual, que me hizo
 comprender todo el bien, todo el mal, que le dió luz a mi vida, apagándola
