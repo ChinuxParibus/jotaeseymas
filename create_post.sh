@@ -33,6 +33,12 @@ meta:
     content: /assets/img/avatar-white-red.gif
   - property: og:description
     content: Sin descripción
+  - name: msapplication-TileColor
+    content: #D25349
+  - name: msapplication-TileImage
+    content: /assets/favicon/ms-icon-144x144.png
+  - name: theme-color
+    content: #D25349
 
 ---
 
