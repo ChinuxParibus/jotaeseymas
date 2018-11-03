@@ -1,6 +1,6 @@
 {
   "name": "jotaeseymas",
-  "version": "1.0.2",
+  "version": "1.12.1",
   "description": "Mi laboratorio de Javascript, sus derivados y otras yerbas...",
   "main": "README.md",
   "repository": "https://github.com/ChinuxParibus/jotaeseymas",
@@ -11,9 +11,17 @@
   "license": "MIT",
   "private": false,
   "tags": [
-    "vue", "vuepress", "javascript", "blog", "shell", "static", "webpack", "vue-cli", "web"
+    "vue",
+    "vuepress",
+    "javascript",
+    "blog",
+    "shell",
+    "static",
+    "webpack",
+    "vue-cli",
+    "web"
   ],
   "dependencies": {
-    "vuepress": "^0.10.0"
+    "vuepress": "*"
   }
 }
