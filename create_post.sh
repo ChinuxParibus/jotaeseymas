@@ -52,7 +52,7 @@ meta:
 Si te gustó el contenido de este post, entonces [¡échame una ayudaíta!][100]
 :wink:
 
-<tag-list :tagstring="$page.frontmatter.taglist"></tag-list>
+<tag-list :tagstring="\$page.frontmatter.taglist"></tag-list>
 
 [100]: /ayuda/
 
