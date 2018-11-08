@@ -15,6 +15,12 @@ meta:
     content: /assets/img/icono-blog.png
   - property: og:description
     content: Es la historia de un amor como no hay otro igual...
+  - name: msapplication-TileColor
+    content: #D25349
+  - name: msapplication-TileImage
+    content: /assets/favicon/ms-icon-144x144.png
+  - name: theme-color
+    content: #D25349
 
 ---
 
@@ -93,7 +99,7 @@ Si te gustó el contenido de este post, entonces [¡échame una ayudaíta!][100]
 
 [1]: https://jotaeseymas.wordpress.com
 [2]: https://blog.crespo.org.ve/
-[3]: https://jotaeseymas.surge.sh/posts/2018/05/03/alfabeto-de-javascript.html/
+[3]: https://jotaeseymas.surge.sh/posts/2018/05/03/alfabeto-de-javascript.html
 [4]: https://jotaeseymas.wordpress.com/2017/01/01/primer-post-del-ano-feliz-ano-nuevo/
 [5]: https://www.linkedin.com/in/jhonygrillet/detail/recent-activity/posts/
 [6]: https://www.urbandictionary.com/define.php?term=chevere

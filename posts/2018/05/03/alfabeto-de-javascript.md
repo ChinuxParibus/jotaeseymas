@@ -15,6 +15,12 @@ meta:
     content: /assets/img/abc-magnets.jpg
   - property: og:description
     content: Una lista bien 'currada' de libs/fw/techs de Javascript
+  - name: msapplication-TileColor
+    content: #D25349
+  - name: msapplication-TileImage
+    content: /assets/favicon/ms-icon-144x144.png
+  - name: theme-color
+    content: #D25349
 
 ---
 
