@@ -8,7 +8,7 @@ mediaimg:	/assets/img/jexia-icon.svg
 taglist: vue,100-days-of-code,jexia,
 meta:
   - name: keywords
-    content: list,vuepress,vue
+    content: 100daysofcode,jexia,list,vuepress,vue
   - property: og:title
     content: NO SOY FAN DE COELHO
   - property: og:image
