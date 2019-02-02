@@ -8,7 +8,7 @@ day=${vars[2]}
 
 dirtree=posts/$year/$month/$day
 
-mkdir -p $dirtree
+mkdir $dirtree
 
 touch $dirtree/$1.md
 
